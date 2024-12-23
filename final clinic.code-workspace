@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../web-uni"
+		},
+		{
+			"path": "../../web_me"
+		}
+	],
+	"settings": {}
+}
